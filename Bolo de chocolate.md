@@ -2,9 +2,10 @@
 
 ### Ingredientes
 
-**Massa:**
 
-- 1 copos de trigo
+=======
+
+- 1 copo de trigo
 - 2 copos de açúcar
 - 1 copo de chocolate em pó
 - 1 copo de óleo
