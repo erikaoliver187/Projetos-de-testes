@@ -8,7 +8,7 @@
 - 2 copos de açúcar
 - 1 copo de chocolate em pó
 - 1 copo de óleo
-- 3 ovos
+- 4 ovos
 - 1 copo de água quente
 - 1 colher de sopa de fermento em pó
 
